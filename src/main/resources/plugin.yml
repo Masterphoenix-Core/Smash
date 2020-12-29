@@ -1,0 +1,23 @@
+name: Smash
+version: "0.90"
+main: de.master.smash.core.bootstrap.Main
+author: Masterphoenix
+
+commands:
+  smash:
+    description: Nutze /smash help für eine Hilfe.
+    aliases:
+      - sm
+  start:
+    description: Starte das Spiel.
+  build:
+    description: Aktiviere den Baumodus.
+    aliases:
+      - b
+  stats:
+    description: Zeige die Stats eines Spielers.
+
+
+
+
+
